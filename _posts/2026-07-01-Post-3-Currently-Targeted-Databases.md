@@ -1,4 +1,4 @@
-## Post 3 — Currently Targeted Databases
+## Post 3 - Currently Targeted Databases
 
 In Post 1, I mentioned that there are two overarching types of code planned to be added: **Fetcher Classes** and **Convenience Functions**.
 
