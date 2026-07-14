@@ -8,10 +8,10 @@ At the moment, there are plans for four Convenience Functions:
    REST API: (https://files.wwpdb.org/download/)
 
 2. `from_alphafold()` — targets the AlphaFold database  
-   REST API: [AlphaFold prediction API](https://alphafold.ebi.ac.uk/api/prediction/)
+   REST API: (https://alphafold.ebi.ac.uk/api/prediction/)
 
 3. `from_mddb()` — targets the Molecular Dynamics Data Bank  
-   REST API: [MDDB REST API documentation](https://mdposit.mddbr.eu/api/rest/docs/)
+   REST API: (https://mdposit.mddbr.eu/api/rest/docs/)
 
 4. `from_doi()` — targets supplementary information from any DOI  
    Implementation: internal `pooch` implementation
