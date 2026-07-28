@@ -1,4 +1,4 @@
-## Post 3 - On Main Repo!
+## Post 4 - On Main Repo!
 
 Code for `StaticFetcher` is on the [main repo](https://github.com/MDAnalysis/mdanalysis/pull/5436). Once this is ironed out, reviewed, and finalized, the vast majority of utility/convienence functions should be simple enough to implement as they are REST API based protocols. 
 
