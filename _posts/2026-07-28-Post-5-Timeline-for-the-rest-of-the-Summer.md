@@ -1,4 +1,4 @@
-## Post 5 - Timeline for the rest of the Semester
+## Post 5 - Timeline for the rest of the Summer
 
 With GsoC ending soon on Aug 24, 2026, here's a timeline for the rest of the semester:
 
