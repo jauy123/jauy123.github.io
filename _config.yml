@@ -21,6 +21,9 @@ github_username: "jauy123"
 #########################################################################################
 theme: "minima"
 
+include:
+  - _images
+
 rss: rss
 
 kramdown:
