@@ -1,5 +1,6 @@
-## Post 5 - Timeline for the rest of the Summer
+## Post 6 - Final Blog Post
 
+![El doggo](/_images/test.jpg)
 # Test
 
 ## Test 2
